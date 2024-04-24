@@ -1,0 +1,31 @@
+@font-face {
+    font-family: abril;
+    src: url(AbrilFatface-Regular.ttf);
+}
+
+body{
+    background-color: #803a3a;
+}
+
+.main{
+    margin: auto;
+    margin-top: 200px;
+    background-color: #ad7575;
+    width: max-content;
+    padding: 35px;
+    border-radius: 5px;
+    font-family: abril;
+    color:antiquewhite;
+}
+
+.main label{
+    display: block;
+}
+
+.main input{
+    margin-bottom: 15px;
+    width: 230px;
+    height: 20px;
+    background-color: #c9aeae;
+    border-color: #755d5d;
+}
